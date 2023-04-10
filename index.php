@@ -14,6 +14,7 @@
 
 	<main class="wrapper">
 		<div class="container">
+			<div class="text">Calculator</div>
 			<div class="cal">
 				<form action="">
 					<div class="display">
