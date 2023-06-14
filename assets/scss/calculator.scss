@@ -27,7 +27,7 @@
     height: vw(600);
     padding: vw(20);
     border-radius: vw(20);
-    @include mobile () {
+    @include mobile(){
         width: 90vw;
         padding: vw(40, 414);
     }
@@ -46,7 +46,7 @@
             margin: vw(10);
             font-size: vw(25);
             box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-            @include mobile() {
+            @include mobile(){
                 width: vw(65, 414);
                 height: vw(65, 414);
                 margin: vw(10, 414);
